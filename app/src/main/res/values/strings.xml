@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bug128894722</string>
+    <string name="service_description">Test a11y service for bug 128894722</string>
+</resources>
